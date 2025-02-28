@@ -35,7 +35,7 @@ openvpn_list = [
 # VPN settings for WireGuard
 wireguard_list = [
     {
-        "target": "NordWG Main",
+        "target": "WG Main",
         "port": "51820",
         "country": "81",
         "group": "legacy_standard",
